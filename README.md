@@ -1,0 +1,1 @@
+Real-time chat pet project built with Spring Boot and WebSocket to master modern backend technologies (Spring ecosystem, Docker, Kafka). Features JWT authentication, message persistence, and serves as a hands-on playground for learning microservices, containerization, and event-driven architecture. Designed to evolve with Kafka integration and full Docker Compose deployment.
